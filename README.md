@@ -4,12 +4,31 @@ Instructions:
 1. Directory Structure:
    * Create a directory named website.
    * Inside the website directory,
-       * create a subdirectory named img.
+       * create a subdirectory named img
+         * place the provided img into the img directory
        * create a subdirectory named js
+         * place the provided js file into the js directory 
        * create a subdirectoory css
+         * place the provided css file into the css directory
 
 2. #### HTML File:
-    * In the website directory, create an HTML file named index.html.
+    * In the website directory, create an HTML file named index.html
+    * Paste the following code into that page.
+      
+      ```
+      <!DOCTYPE html>
+      <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>My First Web Page</title>
+        </head>
+          <body>
+        
+    
+          </body>
+      </html>
+      ```
 3. #### HTML Content:
     * Open the index.html file in a text editor.
     * Add the following content to your index.html file:
