@@ -1,6 +1,6 @@
 # Objective:
 Create a basic HTML directory structure and build a simple HTML page. The page should include formatted paragraphs and headings to demonstrate an understanding of HTML fundamentals.
-Instructions:
+## Instructions:
 1. Directory Structure:
    * Create a directory named website.
    * Inside the website directory,
