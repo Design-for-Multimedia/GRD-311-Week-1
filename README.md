@@ -29,6 +29,8 @@ Create a basic HTML directory structure and build a simple HTML page. The page s
           </body>
       </html>
       ```
+      * Change the title of the page to include your name
+    
 3. #### HTML Content:
     * Open the index.html file in a text editor.
     * Add the following content to your index.html file:
