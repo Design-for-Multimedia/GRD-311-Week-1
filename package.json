@@ -2,7 +2,7 @@
   "name": "html-doctype-check",
   "version": "1.0.0",
   "description": "A script to check if an HTML file has a proper doctype declaration",
-  "main": "test.js",
+  "main": "doctype-test.js",
   "scripts": {
     "doctype": "node doctype-test.js"
   },
