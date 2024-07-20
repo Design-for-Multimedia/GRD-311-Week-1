@@ -4,7 +4,8 @@
   "description": "A script to check the doctype of an HTML file for GitHub Classroom",
   "main": "test.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "structure": "node structure.js"
   },
   "dependencies": {
     "html-validator": "^8.0.0",
